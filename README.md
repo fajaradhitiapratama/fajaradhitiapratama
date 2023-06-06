@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fajar Adhitia Pratama</h1>
 <h3 align="center">I'm Student from Bandung, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaradhitiapratama&label=Profile%20views&color=0e75b6&style=flat" alt="fajaradhitiapratama" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaradhitiapratama&label=Profile%20views&color=0e75b6&style=flat" alt="fajaradhitiapratama" /> </p> -->
 
 - 🌱 I’m currently learning **Web Development, python for data analysis, and Machine Learning**
 
